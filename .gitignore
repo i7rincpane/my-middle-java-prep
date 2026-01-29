@@ -1,0 +1,15 @@
+.idea/
+*.iml
+.vscode/
+.project
+.settings/
+.classpath
+
+draft.md 
+
+*.class
+*.log
+*.ctxt
+target/
+out/
+build/
