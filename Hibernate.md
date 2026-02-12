@@ -1,7 +1,7 @@
 # Hibernate
-* ### [работа Hibernate с ключами и контекстом](#Работа-Hibernate-с-ключами-и-контекстом)
+* ### [Первичный ключ в Hibernate](#hibernate-primary-keys-p)
 
-## Работа Hibernate с ключами и контекстом
+## <a id="hibernate-primary-keys-p">Первичный ключ в Hibernate</a>
 
 ### 1. Зачем Hibernate первичный ключ?
 Первичный ключ (любого типа) — это фундамент работы **First Level Cache** (Persistence Context).
