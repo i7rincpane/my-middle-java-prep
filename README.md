@@ -8,7 +8,7 @@
   * [Модуль интеграции со СМЭВ-Госуслуги (Оценка качества услуг)](Project.md#assessment-quality-services-p)
   * [DNS-Shop: Маркетплейс с динамическими характеристиками (EAV)](Project.md#dns-shop-p)
 * [Топ 20 вопросов на мой стек](Top20.md)
-* [Анализ технологий из 40 резюме Java-разработчиков](ResumeAnalysis.md) 
+* [Анализ технологий из 100 резюме Java-разработчиков](ResumeAnalysis.md) 
 * [JVM (Java Virtual Machine)](JVM.md)
     * [Виды Garbage Collectors (GC)](JVM.md#gc-type-p)   
     * [Структура памяти JVM](JVM.md#jvm-memory-structure-p)

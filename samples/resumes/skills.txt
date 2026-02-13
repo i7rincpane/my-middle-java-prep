@@ -1,0 +1,2267 @@
+Навыки со 100 резюме на 13.02.2026
+Spring Framework
+SQL
+Git
+Hibernate ORM
+ООП
+MySQL
+HTML
+JSP
+REST
+React
+Linux
+PostgreSQL
+Wicket
+Взаимодействие с заказчиком
+Java Fx
+Docker
+Kafka
+ZeroMq
+SOLID
+Multithread Programming
+Spring Boot
+Flyway
+Redis
+Apache Maven
+Mockito
+NoSQL
+VoIP
+Java
+PostgreSQL
+ООП
+Hibernate ORM
+Spring Framework
+Swagger
+Lombok
+Apache Tomcat
+Thymeleaf
+Apache POI
+Spring Data
+MapStruct
+MySQL
+JPA
+Spring Security
+WebSocket
+JUnit
+Spring MVC
+Spring Boot
+Docker-compose
+Gitlab
+JSP
+Intellij IDEA
+Java Servlets
+SOLID
+Java EE
+Docker
+Liquibase
+Английский язык
+Java
+RabbitMQ
+Docker
+Spring Boot
+PostgreSQL
+REST API
+Git
+Apache Maven
+Grafana
+Базовый уровень
+Jenkins
+Уровень не указан
+Hibernate
+Apache Kafka
+Spring Data
+JUnit
+NoSQL
+Liquibase
+Kubernetes
+CI/CD
+SOLID
+AWS s3
+Nginx
+Agile
+Наставничество
+Gradle
+K8s
+MVC
+Thymeleaf
+SQL
+Level not specified
+Java
+Spring Framework
+Hibernate ORM
+Apache Maven
+Git
+Gradle
+Docker
+Swagger
+Postman
+Liquibase
+Thymeleaf
+Kubernetes
+PostgreSQL
+MySQL
+Elasticsearch
+Cassandra
+Kafka
+Redis
+Jenkins
+Java
+Уровень не указан
+Kotlin
+Spring Boot
+Spring Security
+Spring Data
+Hibernate
+PostgreSQL
+Flyway
+Liquibase
+Mockito
+JUnit
+RabbitMQ
+Docker
+Gradle
+Maven
+Git
+Gitlab
+SOLID
+OOP
+Clean Code
+Clean Architecture
+BouncyCastle
+Jira
+Confluence
+OOD
+TDD
+Jenkins
+Swagger
+REST
+Java
+Spring Boot
+REST API
+PostgreSQL
+Keycloak
+Apache Kafka
+RabbitMQ
+Redis
+Elasticsearch
+Thymeleaf
+Angular
+TypeScript
+JavaScript
+HTML
+SCSS/CSS
+Docker
+Git
+CI/CD
+Terminal
+Jira
+Swagger
+MySQL
+Уровень не указан
+ORACLE
+NoSQL
+Kubernetes
+Linux
+React
+Java
+Spring Framework
+PostgreSQL
+MySQL
+Git
+ООП
+JDBC
+SQL
+REST
+XML
+Spring Boot
+Jasper Reports
+Mockito
+Liquibase
+Spring Data
+Spring Web
+Apache Maven
+Hibernate
+Spring MVC
+JUnit
+Spring Security
+Docker-compose
+REST API
+ORACLE
+Средний уровень
+Docker
+Kafka
+RabbitMQ
+Apache Kafka
+Gradle
+NoSQL
+Обучаемость
+Умение расставлять приоритеты
+Умение работать в команде
+Эффективное решение проблем
+REST
+Git
+Apache Kafka
+Java
+RabbitMQ
+Hibernate
+Spring Boot
+Spring MVC
+Spring Cloud
+Spring Web
+Spring Data
+Intellij IDEA
+JUnit
+SQL
+ORACLE
+PostgreSQL
+gRPC
+Redis
+Средний уровень
+NoSQL
+Gradle
+Liquibase
+OpenShift
+Docker
+Kubernetes
+MongoDB
+Java
+Spring
+Spring Boot
+PostgreSQL
+Git
+SQL
+Hibernate
+JPA
+Liquibase
+Spring Data
+Apache Maven
+Gradle
+JSON
+Spring Web
+Spring MVC
+Средний уровень
+Kafka
+Docker
+Kubernetes
+Bitbucket
+TeamCity
+Apache Kafka
+Java 8
+Java 11
+Java 17
+Spring Boot
+Spring Framework
+Hibernate ORM
+REST
+SOAP
+PostgreSQL
+MySQL
+Apache Maven
+Jenkins
+Spring Cloud
+Docke
+Spring Framework
+PostgreSQL
+Java
+REST
+RabbitMQ
+Kafka
+JUnit
+Docker
+Maven
+Java EE
+Git
+Swagger
+Интеграционное тестирование
+Apache Maven
+Hibernate
+Spring Data
+Spring Boot
+Spring MVC
+Spring Web
+PostgreSQL
+Thymleaf
+ООП
+Hibernate ORM
+Spring Framework
+REST
+Java
+Spring Boot
+Spring MVC
+Oracle Pl/SQL
+Git
+Swagger
+Spring Security
+JUnit
+Spring Cloud
+Docker
+Spring Data
+Camunda BPM
+Resilence4j
+Jackson
+JPA
+Lombok
+Apache Tomcat
+REST API
+Apache Maven
+Intellij IDEA
+SOLID
+Ubuntu
+Apache Kafka
+ORACLE
+Java
+Git
+Apache poi
+PostgreSQL
+H2
+Spring jdbc
+Flyway
+Spring Framework
+Spring jpa
+Hibernate ORM
+Java EE
+Liquibase
+Spring Data
+Spring MVC
+Spring Boot
+Apache Maven
+Spring Security
+SOLID
+ООП
+REST API
+Oracle DB
+Mockito
+Apache Kafka
+RabbitMQ
+Рефакторинг кода
+Наставничество
+Постановка задач разработчикам
+Делегирование
+Spring Web
+Gradle
+Java
+Spring Framework
+SQL
+HTML5
+CSS3
+Git
+Docker
+RabbitMQ
+Http Server
+Слепая печать
+ООП
+REST
+Intellij IDEA
+MVC
+Java
+Git
+Android
+Spring Framework
+SQL
+MS SQL
+Linux
+js
+Oracle Pl/SQL
+C#
+Hibernate ORM
+jQuery
+Docker
+Spring MVC
+Spring web full
+spring restful web services
+PostgreSQL
+ci-cd
+ci/cd gitlab
+Zabbix
+KeyCloak
+Spring Framework
+PostgreSQL
+Apache Maven
+Git
+Spring Data JPA
+ООП
+REST
+Hibernate ORM
+JDBC
+Gradle
+Jira
+Kafka
+Redis
+Camunda
+MinIO
+Обучаемость
+Java
+Spring Framework
+SQL
+Git
+PostgreSQL
+Hibernate ORM
+Kafka
+Spring Boot
+JUnit
+JDBC
+JPA
+OpenShift
+TeamCity
+Maven
+ООП
+Git
+SQL
+Уровень не указан
+Java
+MySQL
+HTML
+PostgreSQL
+Spring Framework
+Spring Boot
+Linux
+Jmetr
+Postman
+Docker
+Grpc
+REST
+Gradle
+JDBC
+Apache Maven
+REST API
+JSON API
+Docker-compose
+JPA
+Spring MVC
+API
+Spring
+Hibernate
+liqu
+liquibase
+Java
+Уровень не указан
+Java EE
+Java SE
+Spring Framework
+PostgreSQL
+Git
+MySQL
+Maven
+Kafka
+Docker
+Camunda
+Elasticsearch
+SQL
+Hibernate ORM
+NoSQL
+Flyway
+Apache Maven
+JUnit
+Spring Data
+Mockito
+Spring Boot
+Apache Maven
+Java
+Git
+Spring Framework
+Hibernate ORM
+SQL
+Java SE
+JSP
+JDBC
+Intellij IDEA
+Java Servlets
+Apache Tomcat
+Java EE
+JPA
+C# (familar)
+ООП
+ORACLE
+Atlassian Jira
+JUnit
+JavaScript
+Kotlin
+Kubernetes
+Jenkins
+-------20
+Gradle
+Apache Kafka
+Java
+Git
+ООП
+SQL
+Spring Framework
+Hibernate ORM
+REST
+Apache Maven
+Средний уровень
+Bash
+RabbitMQ
+Oracle Pl/SQL
+ngrok
+OpenShift
+K8s
+Docker
+Yaml
+Jenkins
+Mockito
+JUnit
+gRPC
+OpenAPI
+PostgreSQL
+SOAP
+protobuf
+Keycloak
+Krakend
+Docker Swarm
+JUnit5
+Git
+Jira
+Java
+Spring Framework
+PostgreSQL
+Java EE
+Java Core
+SQL
+Spring
+Kubernetes
+Spring Boot
+ООП
+REST
+Средний уровень
+Spring Data
+MySQL
+Maven
+Portainer
+Gitlab
+ELK
+Docker
+Redis
+Prometheus
+Kafka
+Mockito
+Hibernate
+Hibernate ORM
+Grafana
+Elasticsearch
+Java
+Apache Kafka
+Apache Maven
+Hibernate
+Spring Boot
+Docker
+gRPC
+Kubernetes
+Liquibase
+Spring Cloud
+Bash
+Spring Web
+Mockito
+Spring MVC
+SQL
+Git
+Redis
+Обучаемость
+Java
+SQL
+Spring Framework
+Git
+REST
+Средний уровень
+PostgreSQL
+JSON API
+Java Servlets
+Базовый уровень
+HTML
+Уровень не указан
+Работоспособность
+XML
+JSP
+C#
+Unity
+Docker
+Python
+Medium level
+SQL
+Linux
+PostgreSQL
+Git
+Level not specified
+Java
+C#
+OOP
+Spring Framework
+Kotlin
+Jenkins
+Haskell
+C++
+Kubernetes
+Atlassian Jira
+Java
+Git
+Spring Framework
+Spring Data
+Spring Cloud
+Spring Boot
+SQL
+PostgreSQL
+MySQL
+NoSQL
+Redis
+Docker
+Apache Kafka
+RabbitMQ
+ActiveMQ
+ООП
+Hibernate
+Hibernate ORM
+Spring WebFlux
+REST
+REST API
+API
+JUnit
+Apache Maven
+Gradle
+JavaScript
+React
+Angular
+Grafana
+Swagger
+Java
+Spring Framework
+MVC
+C/C++
+ООП
+PostgreSQL
+Unity
+Git
+HTML5
+Hibernate ORM
+SOLID
+Spring Security
+Spring MVC
+Mockito
+Docker-compose
+Системная архитектура
+Проектирование систем
+Java EE
+Java SE
+Jenkins
+REST API
+Apache Tomcat
+Agile
+Scrum
+kafka
+kuber
+openshift
+Liquibase
+Java 17
+Spring Boot
+Java
+Spring Boot
+Hibernate ORM
+PostgreSQL
+REST API
+Git
+Базовый уровень
+Apache Maven
+Python
+Java
+Medium level
+PostgreSQL
+Hibernate
+Level not specified
+Git
+SQL
+Linux
+Docker
+REST
+JUnit
+MongoDB
+Kafka
+Microservices
+Maven
+Spring
+Java
+MySQL
+Spring Data
+Базы данных
+Java SE
+Spring Framework
+GitHub
+Java Core
+PostgreSQL
+Git
+ООП
+Основы алгоритмов и структур данных
+Jira
+ORM
+JDBC
+Работа с базами данных
+Hibernate ORM
+REST
+JUnit
+Liquibase
+Java 17, Spring Boot, Hibernate, PostgreSQL, MongoDB, Docker, REST API, Gradle, Maven, Microservices
+Docker
+REST API
+Backend
+API
+JSON
+Redis
+Unit Testing
+JPA
+Microservices
+Работа в команде
+Работа с базами данных
+принципы SOLID
+Git
+REST
+HTTP
+Тестирование
+HTML5
+CSS
+JavaScript
+EmberJs
+ArangoDb
+MVC
+Ubuntu
+Spring
+Spring Boot
+Spring Data JPA
+PostgreSQL
+Liquibase
+Jooq
+WS
+Spring Security
+Apache Kafka
+Kibana
+Spring Data
+Java
+SQL
+Spring Framework
+PostgreSQL
+REST
+Работа в команде
+Hibernate
+API
+Средний уровень
+Spring Boot
+SOLID
+GitHub
+Docker
+Git
+Spring
+HTML
+ООП
+Hibernate ORM
+Apache Maven
+JDBC
+Intellij IDEA
+Java EE
+Java Core
+Английский язык
+MySQL
+Go
+Golang
+Базовый уровень
+JUnit
+CSS
+Kafka
+PostgreSQL
+Spring Boot
+SQL
+Apache Maven
+Mockito
+Hibernate
+Git
+JUnit
+gRPC
+Алгоритмы и структуры данных
+REST API
+Java Core
+Spring Data JPA
+JDBC
+Liquibase
+Swagger
+Базовый уровень
+Apache Kafka
+Spring Cloud
+Docker
+Docker-compose
+Spring Security
+Spring Cloud Config
+Service Discovery: Eureka
+Spring Cloud Feign
+Circuit Breaker
+Spring Cloud Gateway
+Protocol Buffers
+Apache Avro
+Микросервисная архитектура
+Spring Framework
+PostgreSQL
+Java
+Git
+Maven
+JUnit
+JPA
+Hibernate
+Docker
+MongoDB
+REST
+Atlassian Jira
+Atlassian Confluence
+Spring MVC
+Spring Security
+Spring Data
+Spring Boot
+Apache Maven
+RabbitMQ
+ООП
+SOLID
+REST API
+Camunda
+Hibernate ORM
+SOAP
+Agile
+Keycloak
+Intellij IDEA
+Java
+SQL
+Intellij IDEA
+Математическое программирование
+Java SE
+Java EE
+Kotlin
+Работа в команде
+Spring Framework
+VueJS
+Apache Maven
+Hibernate ORM
+JPA
+Git
+Java
+Spring Framework
+HTML
+Оптимизация кода
+Средний уровень
+MySQL
+C#
+Hibernate ORM
+CSS
+Docker-compose
+Базовый уровень
+jQuery
+JavaScript
+Linux
+React
+RabbitMQ
+Agile
+Java
+Spring Framework
+PostgreSQL
+REST API
+Средний уровень
+Visual Studio C#
+HTML
+JavaScript
+MS PowerPoint
+MS Visual Studio
+HTML5
+CSS3
+MySQL
+React
+Git
+MS Visual Basic
+JSON API
+Оптимизация кода
+ActiveMQ
+RabbitMQ
+Apache Kafka
+Постановка задач разработчикам
+Linux
+Intellij IDEA
+Docker-compose
+Анализ требований
+Рефакторинг кода
+Базовый уровень
+Pascal
+CSS
+C#
+FirebirdSQL
+PostgreSQL
+Git
+ООП
+Telegram Bot
+SOLID
+Microservice
+Liqubase
+Kafka
+Spring (Data,Core,Boot,Security,Cloud)
+Java SE, EE (8,17)
+REST API
+Java
+SQL
+Apache Tomcat
+Spring Framework
+Git
+Linux
+Spring core
+PostgreSQL
+Postman
+Spring web
+Spring security
+Spring data
+Hibernate ORM
+JPA
+Docker
+Kubernetes
+Spring Framework
+Java
+JPA
+Oracle Pl/SQL
+Hibernate ORM
+Dart
+MongoDB
+Redis
+Spring Boot
+Multithread Programming
+Средний уровень
+MySQL
+Git
+Jenkins
+Flutter
+Docker
+Spring WebFlux
+Apache Kafka
+Keycloak
+Hazelcast
+SQL
+Gradle
+PostgreSQL
+Scrum
+Firebase
+Kubernates
+GitLab CI
+JavaScript
+Базовый уровень
+Ansible
+React
+Java
+SQL
+ООП
+Уровень не указан
+Spring Framework
+PostgreSQL
+Git
+Spring Boot
+Apache Kafka
+Docker
+Kubernetes
+Hibernate ORM
+Linux
+Unit Testing
+Spring
+Apache Maven
+JUnit
+JDBC
+REST API
+Spring MVC
+Gradle
+Java Core
+Redis
+Design Patterns
+Multithread Programming
+Английский язык
+Java SE
+Scrum
+Микросервисная архитектура
+CI/CD
+Базы данных
+ООП
+Уровень не указан
+Java
+Spring Framework
+Hibernate ORM
+Git
+JUnit
+PostgreSQL
+SOLID
+Spring Boot
+Spring Data
+Spring MVC
+Spring Cloud
+Kafka
+Docker
+Jenkins
+MongoDB
+Kotlin
+Java Core
+Maven
+Gradle
+gRPC
+Redis
+Kubernetes
+Hibernate
+Ansible
+Spring WebFlux
+Spring Reactor
+Kibana
+Grafana
+REST
+Работа с WEB-сервисами
+Java
+SQL
+PostgreSQL
+Git
+Linux
+Hibernate ORM
+Python
+XML
+REST
+СУБД
+Java EE
+Kafka
+Базы данных
+Работа с базами данных
+Docker
+SOAP
+RabbitMQ
+Unix
+GitHub
+Микросервисы
+HTTP
+JDBC
+Apache Tomcat
+Java SE
+Apache Maven
+ORACLE
+Английский язык
+Unix Shell Scripts
+Структуры данных
+PostgreSQL
+ООП
+Уровень не указан
+Java
+HTML5
+CSS3
+JavaScript
+Hibernate ORM
+Spring Framework
+Spring
+Git
+JSON API
+XML
+MS SQL
+Исполнительность
+Быстрообучаемость, умение решать сложных задач
+Алгоритмы и структуры данных
+Git
+Atlassian Jira
+SQL
+RabbitMQ
+Git
+Уровень не указан
+Java
+Spring Boot
+PostgreSQL
+Apache Maven
+Hibernate ORM
+Docker
+JUnit
+Mockito
+REST
+JDBC
+JavaFX
+SceneBuilder
+Intellij IDEA
+Английский язык
+Java
+Intellij IDEA
+Kanban
+REST API
+Hibernate
+Apache Maven
+Mockito
+JUnit
+Bash
+Spring Framework
+Spring Boot
+Spring MVC
+Apache Kafka
+Liquibase
+Рефакторинг кода
+SQL
+ООП
+Уровень не указан
+Git
+MySQL
+Java
+Gradle
+Linux
+Spring Framework
+JavaScript
+Spring
+Docker
+Docker compose
+Java EE
+Hibernate
+PostgreSQL
+REST
+JDBC
+Apache Kafka
+Kotlin
+Redis
+Kafka
+Spring Boot
+Jooq
+Microservices
+JPA
+Apache Maven
+Docker
+Уровень не указан
+Java
+Spring Framework
+PostgreSQL
+Git
+Apache Maven
+Linux
+Redis
+Kafka
+Keycloak
+Flyway
+Liquibase
+ELK
+Apache NiFi
+СМЭВ
+Git
+Java Core
+SQL
+Hibernate ORM
+Spring Framework
+JSON API
+ООП
+Java
+PostgreSQL
+Stream Api
+Collections
+Java 8 - 11
+Интеграционное тестирование
+Hibernate
+Mockito
+Spring Data
+Spring Boot
+Spring MVC
+Средний уровень
+Структурирование информации
+Maven
+Docker
+Multithread Programming
+RabbitMQ
+Алгоритмы и структуры данных
+Spring Web
+Уровень не указан
+REST
+JUnit
+Java
+SQL
+Spring Framework
+REST
+Maven
+NoSQL
+Hibernate
+Apache Kafka
+Liquibase
+RabbitMQ
+PostgreSQL
+MySQL
+Средний уровень
+Git
+Linux
+ООП
+Gradle
+Английский язык
+Redis
+Agile
+SQL
+Oracle Pl/SQL
+AngularJS
+REST
+Hibernate
+SpringBoot
+Angular 2+
+TypeScript
+Java
+HTML
+Code review
+Hibernate ORM
+Apache Tomcat
+MongoDB
+Docker
+Spring Boot
+SOLID
+ООП
+Clean Architecture
+Elasticsearch
+SQL
+Java
+Kotlin
+REST
+PostgreSQL
+Git
+SOAP
+Gitlab
+Gradle
+REST API
+Spring Framework
+Java EE
+Java SE
+JavaScript
+HTML
+Spring Framework
+MySQL
+JSP
+Hibernate ORM
+SQL
+Java Servlets
+CSS
+Git
+Apache Tomcat
+Apache Maven
+XML
+JDBC
+Linux
+MS SQL
+ООП
+MVC
+Atlassian Jira
+MS SQL Server
+ORACLE
+REST API
+SOAP
+SoapUI
+AngularJS
+Selenium
+Unit Testing
+Мобильность
+Работа в команде
+Работа с базами данных
+Обучение и развитие
+Английский язык
+React
+Node.js
+JavaScript
+Java
+Python
+Linux
+Git
+HTML5
+SQL
+Docker
+Spring Framework
+Hibernate ORM
+PostgreSQL
+Java EE
+ООП
+Apache Tomcat
+JBoss
+Intellij IDEA
+REST
+Git
+Spring Boot
+Spring Framework
+SQL
+Spring Data
+Liquibase
+Java
+Базовый уровень
+RabbitMQ
+Apache Maven
+Gradle
+Уровень не указан
+Java SE
+Hibernate ORM
+MySQL
+ORACLE
+Maven
+JDBC
+REST
+Kafka
+Docker
+SOAP
+JPA
+PostgreSQL
+Unit Testing
+Microservices
+Java
+Spring Framework
+Hibernate ORM
+Apache Maven
+PostgreSQL
+Git
+ООП
+Java Servlets
+SQL
+Apache Tomcat
+HTML
+Apache Kafka
+JUnit
+Алгоритмы и структуры данных
+Рефакторинг кода
+Spring Data
+Spring Boot
+Intellij IDEA
+Spring Web
+Spring MVC
+Mockito
+Liquibase
+Spring Security
+Bitbucket
+ORACLE
+Hibernate
+REST API
+Jenkins
+Kubernetes
+Docker
+Java
+Уровень не указан
+REST API
+Spring Web
+Алгоритмы и структуры данных
+Apache Kafka
+Оптимизация кода
+Spring Framework
+PostgreSQL
+Apache Maven
+Spring Boot
+Hibernate
+Рефакторинг кода
+Интеграционное тестирование
+Bitbucket
+JUnit
+Liquibase
+Анализ требований
+Mockito
+Spring Data
+Agile
+ORACLE
+GitHub
+SQL
+JavaScript
+HTML
+CSS
+Git
+ReactJS
+Настройка ПК
+Английский язык
+Java
+Spring Boot
+Spring Framework
+MySQL
+Spring MVC
+JDBC
+Базовый уровень
+Redux
+Golang
+Docker
+Kubernetes
+Администрирование серверов Windows
+TCP/IP
+Hibernate ORM
+MongoDB
+Maven
+JUnit
+JPA
+Swagger
+Microservices
+СУБД
+REST
+RabbitMQ
+Apache Kafka
+Java
+ООП
+REST API
+JDBC
+Spring Framework
+Spring Boot
+Intellij IDEA
+MVC
+Hibernate ORM
+JPA
+Spring Security
+Git
+PostgreSQL
+Lombok
+JUnit
+Liquibase
+Flyway
+Базовый уровень
+Apache Maven
+Gradle
+Docker
+RabbitMQ
+Redis
+AWS
+HTML
+CSS
+CI/CD
+Уровень не указан
+Kubernetes
+HTML5
+PHP5
+CSS3
+Работа с Документологом
+MS SQL Server
+MS SQL
+Git
+SQL
+Java
+Atlassian Confluence
+Atlassian Jira
+QA
+Тестирование
+API
+Postman
+Test case
+Ручное тестирование
+Тестирование пользовательского интерфейса
+Jira
+PostgreSQL
+JSON
+Kafka
+REST
+JSON API
+SOAP
+SQL запросы
+GitHub
+Spring Framework
+JUnit
+Git
+Maven
+RabbitMQ
+Docker
+Ibatis
+Swagger
+Spring
+Spring Boot
+Spring MVC
+Spring Web
+Средний уровень
+Mockito
+Apache Kafka
+Микросервисная архитектура
+PostgreSQL
+Hibernate ORM
+MongoDB
+Gradle
+Jooq
+SQL
+NoSQL
+Spring Security
+Gitlab
+Базовый уровень
+Clickhouse
+Websocket
+Jenkins
+ORACLE
+Spring Cloud
+Kubernetes
+Helm
+Git
+Java
+Java FX
+Design Patterns
+Clickhouse
+PostgreSQL
+MySQL
+REST
+Spring Boot
+Docker
+Liquibase
+Базовый уровень
+Apache Kafka
+React
+Уровень не указан
+Apache Maven
+Java
+SQL
+PostgreSQL
+API
+REST
+Средний уровень
+Git
+Spring Framework
+ООП
+JPA
+Apache Maven
+Flyway
+Atlassian Jira
+Базовый уровень
+JDBC
+Hibernate ORM
+Уровень не указан
+Apache Kafka
+Camunda
+Groovy
+Jmeter
+Elasticsearch
+SQL
+HTML
+Уровень не указан
+Исполнительность
+Java
+XML
+Работа с базами данных
+ORACLE
+Eclipse
+Spring
+JSON
+Atlassian Jira
+PostgreSQL
+Git
+Деловая переписка
+Деловая коммуникация
+Java
+Spring Framework
+JPA
+Hibernate ORM
+PostgreSQL
+Maven
+Intellij IDEA
+FirebirdSQL
+Git
+Design Patterns
+REST
+Medium level
+JUnit
+Linux
+Basic level
+JDBC
+SQLite
+Gradle
+Level not specified
+Atlassian Jira
+Bash
+Swagger
+JMS
+Tarantool
+Java
+PostgreSQL
+Spring Framework
+Hibernate ORM
+Apache Maven
+JDBC
+OOP
+TDD
+Spring Data
+Spring Security
+Data-structure
+Algorithms
+Spring MVC
+Spring IoC / DI
+JUnit
+H2DB
+Agile methodologies
+java design patterns
+Git
+Spring Cloud
+Docker
+Mockito
+Spring Boot
+Testcontainers
+CI/CD
+Kubernetes
+Microservices
+Microservices Patterns
+Apache Kafka
+Spring Core
+Spring Boot
+Spring MVC
+Spring Data
+Spring Rest
+Git
+Linux
+HTML5
+CSS3
+MySQL
+SQL
+Hibernate
+Akka
+Freeswitch
+Kafka
+Websocket
+Java core
+Js
+Docker
+Gitlab CI
+Vuejs
+MongoDB
+PostgreSQL
+Oracle Database
+Apache atlas
+Testcontainer
+TDD
+Java
+CI/CD
+Nginx
+Язык программирования Java
+Intellij IDEA
+ООП
+MySQL
+Spring Framework
+Java SE
+Java EE
+Hibernate ORM
+Apache Maven
+Git
+Spring Boot
+Gradle
+Java
+PostgreSQL
+SQL
+API
+Средний уровень
+Английский Язык ( intermediate)
+HTML
+Docker
+React JS
+OrientDB
+Уровень не указан
+Умение работать с людьми
+UML
+Аналитическое мышление
+Коммуникабельность
+XML
+JavaScript
+JSON
+CSS
+GWT
+Java
+Kotlin
+Spring Framework
+Git
+Уровень не указан
+Java EE
+Hibernate ORM
+Apache Tomcat
+SQL
+Wildfly
+Linux
+PostgreSQL
+XML
+Базы данных
+Ubuntu
+HTTP
+Английский язык
+Java
+SQL
+Работа в команде
+Git
+Apache Maven
+JDBC
+Знание алгоритмов и структур данных
+Spring Framework
+HTML
+CSS
+MySQL
+Деловая переписка
+Unit Testing
+Thymeleaf
+Hibernate ORM
+JPA
+MVC
+Spring Boot
+Spring Cloud
+Spring Security
+PostgreSQL
+RabbitMQ
+Kafka
+Lombok
+SOAP
+Mockito
+Docker
+Swagger
+REST
+Java
+PostgreSQL
+Spring Framework
+ООП
+Apache Tomcat
+MongoDB
+Websocket
+Rest Api
+Docker
+Kubernate
+Spring Cloud
+Microservice
+WebFlux
+ORACLE
+RabbitMQ
+SOLID Design Principles
+Apache Karaf
+Redis
+Kafka
+Cassandra
+Apache Ignite
+SOAP
+MinIO
+ELK stack
+Maven
+Gradle
+JUnit
+Mockito
+Git
+SQL
+ООП
+Уровень не указан
+Java Core
+Git
+GitHub
+Hibernate ORM
+JavaFX
+Swing
+Английский язык
+Unit Testing
+Design Patterns
+HTML
+CSS
+JavaScript
+Java
+C#
+JUnit
+Stream API
+Maven
+JDBC
+Jira
+XML
+JSON
+MongoDB
+Intellij IDEA
+СУБД
+ORACLE
+PostgreSQL
+Spring Framework
+Микросервисы
+ООП
+JavaScript
+HTML5
+CSS
+Less
+Работа с базами данных
+jQuery
+Git
+Apache Tomcat
+JBoss
+Bootstrap
+AngularJS
+Java
+Hadoop
+Spark
+Hive
+HBase
+Cloudera
+Python
+Git
+Java
+HTML
+Spring Framework
+Hibernate ORM
+SQL
+Intellij IDEA
+Apache Maven
+NetBeans
+CSS
+Gradle
+Spring Boot
+Spring Data
+Spring MVC
+Spring Security
+Spring Web
+PostgreSQL
+MongoDB
+Redis
+Testing Framework
+TestNG
+JUnit
+JDBC
+JPA
+Hibernate
+Maven
+Lombok
+Java
+Hibernate ORM
+Spring Framework
+Java SE
+PostgreSQL
+MySQL
+Wicket
+REST
+SQL
+Postman
+Apache Maven
+RabbitMQ
+Apache Camel
+Docker
+Microservices
+Spring Boot
+Swagger
+Liquibase
+SonarQube
+JUnit
+Mockito
+Google Pub/Sub
+MongoDB
+gRPC
+Kibana
+Gradle
+Java
+Spring Framework
+Apache Maven
+MySQL
+Git
+Docker
+Docker-compose
+Gradle
+PostgreSQL
+Mockito
+Hibernate
+Testconainers
+Интеграционное тестирование
+CI/CD
+English B2
+Java
+Java SE, EE
+Java mailing,jsp,jstl,thymeleaf
+Apache Maven
+Apache Tomcat
+Spring Framework
+Spring boot,data,mvc,rest,security,AOP
+Spring Cloud Eureka
+Spring Cloud Gateway
+Spring Cloud OpenFeign
+Netflix Zuul gateway
+Docker,docker-compose
+CI/CD github action
+PostgreSQL,Mysql
+Flyway
+HTML,CSS, JavaScript
+Kafka,RabbitMQ
+OAuth security
+Junit5, integration testing, wiremock tesing
+Microservices
+Spring
+Java SE
+Java EE
+SQL
+Git
+REST
+Docker
+MVC
+SOLID
+ООП
+SQL
+Git
+JDBC
+JPA
+Spring Framework
+Apache Maven
+GitLab
+JUnit
+Spring Data
+Java SE
+Hibernate ORM
+Java
+Spring Framework
+microservices
+RxJava
+Git
+Git
+ООП
+Gitlab
+Linux
+Nginx
+Java
+Cuba
+SOLID
+JDBC
+SOAP
+REST
+Spring MVC
+Spring Security
+Docker
+Gradle
+REST API
+JSON API
+PostgreSQL
+BPMN
+MySQL
+Hibernate ORM
+Spring Boot
+Agile
+Средний уровень
+Ubuntu Server
+Scrum
+Уровень не указан
+RabbitMQ
+Kubernetes
+MongoDB
+Spring Cloud
+GitHub
+Java
+Apache Tomcat
+Spring Framework
+Apache Maven
+Hibernate ORM
+PostgreSQL
+MVC
+JPA
+JSON API
+XML
+JUnit
+Mockito
+MySQL
+Docker
+Atlassian Jira
+Atlassian Confluence
+Liquibase
+Intellij IDEA
+Spring Data
+Средний уровень
+Mapstruct
+WebSocket
+Apache Kafka
+Kubernetes
+gRPC
+Bash
+Golang
+Базовый уровень
+JavaScript
+TypeScript
+Jenkins
+Groovy
+Java
+Уровень не указан
+Целеустремленность
+Работа в команде
+PostgreSQL
+Spring Framework
+Git
+Hibernate ORM
+SQL
+MongoDB
+Docker
+REST
+Apache Tomcat
+Kafka
+Работа с базами данных
+JUnit
+Kubernetes
+JDBC
+Микросервисы
+Keycloak
+Gradle
+Hibernate ORM
+PostgreSQL
+Spring Framework
+Docker
+ООП
+RESTful Api
+Spring MVC
+Java
+Kubernetes
+REST API
+Liquibase
+Git
+Agile
+Коммуникативная компетентность
+Языки программирования: Java, HTML, XML, SQL, Gherkin
+Владение программами: IntelliJ IDEA, Android Studio, Postman
+Базы данных: MySQL, PSQL, OracleDB
+Фреймворки: Atlas, Cucumber, Selenium, Junit, TestNG
+CI/CD: Jenkins, Maven
+Системы отчётности: Allure, Jira
+А так же: Docker, GitBash, GitLab, ООП, SOLID, ACID, GOF
+Знаком с: Spring core, JDBC, JdbcTemplate
+Личные качества: обучаемость, усидчивость, нацеленность на результат
+Уровень английского: Intermediate
+SQL
+Java EE
+Spring Framework
+Hibernate ORM
+REST
+Git
+Apache Maven
+Java
+MySQL
+Apache Maven
+Hibernate ORM
+Windows
+Git
+JUnit
+Java Core
+Spring Boot
+REST
+JPA
+JDBC
+GitHub
+Linux
+Docker
+Gradle
+Hibernate
+Java
+Средний уровень
+ООП
+Git
+SQL
+Уровень не указан
+SOLID
+Spring Boot
+JDBC
+REST API
+PostgreSQL
+MySQL
+Apache Maven
+JUnit
+Mockito
+Agile
+Spring Web
+Atlassian Jira
+Trello
+Swagger
+Hibernate
+Clean Architecture
+Spring Data
+Spring Security
+Java Core
+Java Collections
+Lombok
+Spring MVC
+Spring Framework
+Scrum
+Kanban
+Английский - B1
+JDBC
+Core Java
+Apache Maven
+MySQL
+Java 8
+ООП
+Spring Framework
+Hibernate ORM
+Git
+Java
+Git
+PostgreSQL
+Spring Framework
+SQL
+REST
+MongoDB
+Английский язык
+Kafka
+Hibernate ORM
+Agile Project Management
+Atlassian Jira
+RabbitMQ
+Java SE
+Kotlin
+Apache Maven
+Jenkins
+Java EE
+Spring Boot
+NoSQL
+Управление командой
+Unit Testing
+Microservices
+СУБД
+Backend
+JPA
+JBoss
+Teamleading
+AWS
+Lombok
+Java
+Spring Framework
+Hibernate ORM
+JDBC
+MySQL
+SQL
+Git
+ООП
+Spring Data
+Средний уровень
+Java Servlets
+JSP
+Angular
+JavaScript
+Spring Security
+Spring Boot
+Базовый уровень
+Flex
+TypeScript
+Wicket
+Java
+Git
+Kotlin
+Java EE
+Spring Framework
+Hibernate ORM
+SQL
+MVC
+Gitlab
+Наставничество
+Алгоритмы и структуры данных
+Spring Data
+Spring Boot
+Разработка ПО
+Java
+Spring Boot
+Apache Maven
+Gradle
+PostgreSQL
+Git
+GraphQL
+SOAP
+REST API
+Spring Security
+Liquibase
+JUnit
+Hibernate ORM
+Spring Data JPA
+Code review
+Hibernate
+Spring Framework
+SQL
+REST
+Spring Data
+Рефакторинг кода
+Средний уровень
+RabbitMQ
+Kubernetes
+SonarQube
+Apache Kafka
+Mockito
+Docker
+Redis
+SQL
+Git
+Базовый уровень
+Java
+Уровень не указан
+PostgreSQL
+Spring Boot
+Spring Framework
+REST API
+SOAP
+Gradle
+JUnit
+MongoDB
+Kafka
+Elasticsearch
+Docker
+Java
+Spring Boot
+Spring Data JPA
+Spring MVC
+Spring Security
+Spring AOP
+Hibernate ORM
+RabbitMQ
+Liquibase
+Flyway
+Jenkins
+OpenShift
+Docker
+JUnit
+Mockito
+Atlassian Confluence
+Atlassian Jira
+Bitbucket
+Git
+Camunda
+Groovy
+Apache Maven
+Gradle
+Наставничество
+Agile
+Spring Framework
+Spring Security
+PostgreSQL
+Git
+JPA Criteria API
+Spring Data JPA
+Kubernates
+CI/CD variables
+Spring MVC
+Jmix
+Gradle
+Apache Maven
+SMS-сообщения
+Docker
+RabbitMQ
+Apache Kafka
+Elasticsearch
+MongoDB
+Unit Testing
+ELK
+Java Core
+Clickhouse
+Microservices
+Java
+Hibernate ORM
+WebFlux
+RabbitMQ
+GraphQL
+Kotlin
+Liquibase
+Spring Boot
+SQL
+Умение работать в команде
+Java
+SQL
+Git
+Spring Framework
+Docker
+REST
+Spring
+Apache Maven
+Hibernate ORM
+PostgreSQL
+Microservices
+API
+JDBC
+Java
+Spring Framework
+FreeBSD
+PowerShell
+Linux
+Git
+Perl
+Spark
+hadoop
+Nginx
+selenium
+Apache Hive
+Groovy
+Jenkins
+Ansible
+Camunda
+Gradle
+Spring Boot
+Docker
+JUnit
+PostgreSQL
+Общее понимание SCADA систем
+Понимание opc серверов
+Знание языков программирования FBD LD CFC
+Умение работать в программе Codesys
+Знание языка ST
+MySQL
+ООП
+Spring boot(начальный уровень)
+Spring security(начальный уровень)
+Spring Framework
+Spring data(начальный уровень)
+HTML
+CSS
+Java
+PostgreSQL
+Работа в команде
+Git
+Hibernate ORM
+JUnit
+Linux
