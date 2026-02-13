@@ -6,6 +6,7 @@
 * [Презентации рабочих кейсов](Project.md)
   * [Самопрезентация](Project.md#self-presentation-p)
   * [Модуль интеграции со СМЭВ-Госуслуги (Оценка качества услуг)](Project.md#assessment-quality-services-p)
+  * [Модуль интеграции с ФСС (родовые сертификаты - родильный дом)](docs/instrukciya_ers(rod_dom).pdf)
   * [DNS-Shop: Маркетплейс с динамическими характеристиками (EAV)](Project.md#dns-shop-p)
 * [Топ 20 вопросов на мой стек](Top20.md)
 * [Анализ технологий из 100 резюме Java-разработчиков](ResumeAnalysis.md) 
