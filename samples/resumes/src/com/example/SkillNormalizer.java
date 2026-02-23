@@ -63,6 +63,7 @@ public class SkillNormalizer {
 
 
     public static void main(String[] args) throws IOException {
+        System.out.println(new Object().equals(null));
         List<String> normalisedSkills = processFile("skills.txt");
         writeOutput("skills_normalised.txt", normalisedSkills);
     }
