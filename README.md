@@ -38,6 +38,7 @@
     * [Spring Security](Spring.md#security-p)
     * [Пагинация](Spring.md#pagination-p)
     * [Динамическая фильтрация](Spring.md#filtering-p)
+    * [Аннотация Repository](Spring.md#anat-repository-p)
 * [REST API & Архитектура](REST.md)
     * [Шесть принципов REST (Рой Филдинг)](REST.md#rest-principles-p)
     * [Практика проектирования REST API](REST.md#design-practice-p)
@@ -53,3 +54,9 @@
     * [Сравнение суррогатных ключей: BIGINT против UUID](SQL.md#surrogate-key-p)
     * [Блокировки в SQL: FOR UPDATE и FOR SHARE](SQL.md#locking-p)
     * [Транзакции и ACID](SQL.md#transactions-acid)
+* [Microservices](microservices.md)
+  * [Дефолтные Retry: Межсервисная обработка ошибок и повторы](microservices.md#retry-p)
+  * [Circuit Breaker: Зачем он нужен на самом деле?](microservices.md#cb-p)
+  * [Outbox](microservices.md#outbox-p)
+  * [Распределенные транзакции: Saga](microservices.md#saga-p)
+

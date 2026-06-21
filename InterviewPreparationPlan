@@ -1,0 +1,62 @@
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
+# middle java developer. план подготовки к собеседованию, как технические, так и не технические моменты. Не технические даже важнее. Напиши план-чек-лист.
+
+План подготовки к собеседованию на позицию middle Java developer охватывает как технические навыки, так и не-технические (soft skills), с акцентом на последние, поскольку они часто решают исход на middle-уровне. Чек-лист разделен на разделы для удобства: используйте его как пошаговый гид, отмечая выполненное. Общий срок подготовки — 4–6 недель при ежедневных занятиях по 2–4 часа.
+
+## Не-технические навыки (Soft Skills)
+
+- Подготовьте четкий рассказ о карьерном пути: опишите 2–3 ключевых проекта (ваша роль, вызовы, результаты, метрики успеха) — тренируйтесь говорить 2–3 минуты без воды.[^1_3]
+- Практикуйте behavioral questions: STAR-метод (Situation, Task, Action, Result) для ответов на "Расскажите о конфликте в команде", "Как вы справлялись с дедлайнами" — запишите и проанализируйте 5–10 историй из опыта.[^1_5]
+- Разработайте вопросы к работодателю: о команде (размер, роли), процессах (Agile/Scrum, code review), росте (обучение, конференции), культуре — 5–7 вопросов, адаптированных под компанию.[^1_2]
+- Тренируйте коммуникацию: проводите мок-интервью (с другом или на видео) — фокусируйтесь на ясности речи, уверенности, позитивном тоне; учитесь признавать пробелы ("Не знаю, но вот как подойду к решению").[^1_1]
+- Подготовьтесь к стресс-тестам: практикуйте спокойные ответы на давление (например, "Почему вы лучше других?"), анализируйте невербалику (зрительный контакт, поза).[^1_3]
+- Изучите компанию: прочитайте последние новости, стек технологий, отзывы на HH/Glassdoor — покажите интерес ("Видел ваш миграцию на microservices, как это повлияло?").[^1_10]
+
+
+## Технические навыки (Core Java \& Frameworks)
+
+- Освежите Java Core: коллекции (List/Set/Map, HashMap internals), исключения, generics, streams, lambdas — решите 20–30 задач на LeetCode/HackerRank (medium level).[^1_7][^1_1]
+- Многопоточность: threads, executors, synchronized, Lock, Concurrent collections, volatile — разберите 5–10 примеров кода.[^1_2]
+- Spring: Boot, MVC, Data JPA, Security, REST — соберите pet-проект (CRUD API с БД) и deploy в Docker.[^1_1]
+- Базы данных: SQL (JOINs, индексы, оптимизация), Hibernate/JPA — напишите 10 запросов, поймите N+1 проблему.[^1_1]
+- Инструменты: Git (branching, rebase), Maven/Gradle, Docker basics, Linux commands — практикуйте daily.[^1_1]
+
+
+## Практика собеседований
+
+- Решайте алгоритмы: 50+ задач на LeetCode (arrays, trees, DP) — medium/hard, объясняйте решение вслух.[^1_4]
+- Мок-интервью: 5–10 сессий (Pramp, Interviewing.io или друзья) — чередуйте технику и soft skills.[^1_2]
+- Code review симуляция: разберите чужой код на GitHub, предложите улучшения (чистый код, SOLID).[^1_1]
+- Запишите себя: проанализируйте 3 полных интервью (30–60 мин), доработайте слабые места.
+
+
+## Финальная подготовка
+
+- Резюме и LinkedIn: обновите под middle (квантифицируйте достижения: "Ускорил API на 40%"), добавьте проекты на GitHub.[^1_4]
+- День Х: выспитесь, протестируйте технику (Zoom, экран), оденьтесь business casual; после — отправьте thank-you email.[^1_5]
+- Первые 2 собеседования — тренировка: анализируйте фидбек, не бойтесь отказов.[^1_2]
+<span style="display:none">[^1_6][^1_8][^1_9]</span>
+
+<div align="center">⁂</div>
+
+[^1_1]: https://habr.com/ru/companies/skillbox/articles/679584/
+
+[^1_2]: https://habr.com/ru/articles/473872/
+
+[^1_3]: https://javarush.com/groups/posts/3612-khitrostjh-ili-kak-ustroitjhsja-middle-java-developer-ne-imeja-opihta-rabotih-v-java
+
+[^1_4]: https://tobiz.net/support/kak-stat-Middle-razrabotchikom-za-1-god-chek-list-iz-10-shagov/
+
+[^1_5]: https://blog.skillfactory.ru/kakie-voprosy-zadayut-java-razrabotchikam-na-sobesedovanii/
+
+[^1_6]: https://www.youtube.com/watch?v=a0s9NoT2wUc
+
+[^1_7]: https://practicum.yandex.ru/blog/pro-middle-java-developer-chto-mogut-sprosit-na-sobesedovanii/
+
+[^1_8]: https://www.youtube.com/watch?v=Yd4a77dz1GA
+
+[^1_9]: https://www.reddit.com/r/developersIndia/comments/1f3zadi/as_a_fresher_can_i_crack_a_java_based_interview/
+
+[^1_10]: https://hirehi.ru/blog/kak-podgotovitsia-k-tekhnicheskomu-sobesedovaniiu-etapy-voprosy-i-laifkhaki-2025-goda
+

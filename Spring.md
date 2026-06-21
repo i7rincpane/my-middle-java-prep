@@ -5,6 +5,36 @@
 * ### [Spring Security](#security-p)
 * ### [Пагинация](#pagination-p)
 * ### [Динамическая фильтрация](#filtering-p)
+* ### [Аннотация Repository](#anat-repository-p)
+
+## <a id="anat-repository-p">Аннотация Repository</a>
+
+Когда база данных «ругается» на нарушение правил (например, `CHECK (age > 0)`), она выбрасывает низкоуровневый **`SQLException`**. Это специфичное для каждой БД «проверяемое» (checked) исключение, которое неудобно обрабатывать.
+
+Spring берет на себя «грязную» работу: он перехватывает эти ошибки и переводит их на свой универсальный язык **DataAccessException**.
+
+### Роль @Repository
+Аннотация `@Repository` — это не просто маркер. Ее главная магия — **автоматическая трансляция исключений**.
+* **Как это работает:** С помощью пост-процессора (`PersistenceExceptionTranslationPostProcessor`) Spring оборачивает репозиторий в прокси.
+* **Результат:** Любой `SQLException` от драйвера превращается в **Runtime-исключение** от Spring (например, `DataIntegrityViolationException`).
+
+### Иерархия «Матрешки»
+При нарушении `CHECK` в БД, цепочка исключений выглядит так:
+1. **SQLException (JDBC):** Корень ошибки. Содержит Vendor Code от БД.
+2. **ConstraintViolationException (Hibernate):** Обертка JPA-провайдера. Позволяет достать имя ограничения через `.getConstraintName()`.
+3. **DataIntegrityViolationException (Spring):** Финальная точка. То, что мы ловим в коде.
+
+### Пример обработки CHECK
+Чтобы понять, какой именно `CHECK` сработал, нужно «раскопать» причину:
+```java
+try {
+        repo.save(user);
+} catch (DataIntegrityViolationException e) {
+        if (e.getCause() instanceof org.hibernate.exception.ConstraintViolationException ex) {
+String name = ex.getConstraintName(); // Получим "age_check"
+    }
+            }
+```
 
 ## <a id="boot-p">Spring Boot</a>
 
@@ -573,6 +603,8 @@ private final List<Predicate> predicates = new ArrayList<>();
     }
 }
 ```
+
+
 
 
 
